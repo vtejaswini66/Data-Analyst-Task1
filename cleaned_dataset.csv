@@ -1,0 +1,6 @@
+customer_id,name,age,gender,country,join_date
+1,John,25,Male,USA,2025-01-15
+2,Sara,30,Female,India,2025-02-10
+3,David,28,Male,UK,2025-03-05
+4,Priya,26,Female,India,2025-03-18
+5,Alex,35,Male,Canada,2025-04-02
